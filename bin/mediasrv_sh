@@ -1,0 +1,9 @@
+#!/bin/sh
+
+ulimit -S -c unlimited
+
+#while [ 1 ]
+#do
+    ./mediasrv  $1
+#    sleep 10
+#done
