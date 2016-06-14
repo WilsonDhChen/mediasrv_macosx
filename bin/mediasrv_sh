@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ulimit -S -c unlimited
-
+chmod 777 ./mediasrv
 #while [ 1 ]
 #do
     ./mediasrv  $1
