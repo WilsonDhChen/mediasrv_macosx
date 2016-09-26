@@ -1,4 +1,5 @@
 ﻿# ETS Mediasrv
+# OSX 版本由于时间和技术问题暂时不支持内置CDN调度     
 
 ETS Mediasrv which is an excellent cross-platform Live Streaming Server, developed by f117cdh.
 
